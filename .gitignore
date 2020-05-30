@@ -1,0 +1,17 @@
+datadosen-laravel/node_modules
+datadosen-laravel/public/hot
+datadosen-laravel/public/storage
+datadosen-laravel/storage/*.key
+datadosen-laravel/vendor
+datadosen-laravel/.env
+datadosen-laravel/.env.backup
+datadosen-laravel/.phpunit.result.cache
+datadosen-laravel/Homestead.json
+datadosen-laravel/Homestead.yaml
+datadosen-laravel/npm-debug.log
+datadosen-laravel/yarn-error.log
+node_modules
+
+Project-dataDosen/.DS_Store
+Project-dataDosen/vendor
+Project-dataDosen/.idea
